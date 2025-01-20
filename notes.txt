@@ -1,0 +1,6 @@
+kakeu                ccna                 16,00
+mapo                 ccna                 17,00
+kakeu                ro                   18,00
+nanvou               geo                  15,00
+Simo                 Poo et C#            18,00
+Tsiemi               Administration windows 14,00
