@@ -11,20 +11,14 @@ import java.util.List;
  * @author TDI
  */
 public class Matiere {
-    private String nom;
-    private String specialite;
+   private String nom;
 
-    public Matiere(String nom, String specialite) {
+    public Matiere(String nom) {
         this.nom = nom;
-        this.specialite = specialite;
     }
 
     public String getNom() {
         return nom;
-    }
-
-    public String getSpecialite() {
-        return specialite;
     }
 
 }
